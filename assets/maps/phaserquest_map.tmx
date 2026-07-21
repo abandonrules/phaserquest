@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="172" height="314" tilewidth="32" tileheight="32" backgroundcolor="#ff55ff" nextobjectid="397">
  <tileset firstgid="1" name="tilesheet" tilewidth="32" tileheight="32" tilecount="1960" columns="20">
-  <image source="../browserquest-clone/assets/tilesets/tilesheet.png" width="640" height="3136"/>
+  <image source="../tilesets/tilesheet.png" width="640" height="3136"/>
   <tile id="0">
    <properties>
     <property name="length" value="3"/>
@@ -3810,7 +3810,7 @@
   </tile>
  </tileset>
  <tileset firstgid="1961" name="Mobs" tilewidth="16" tileheight="16" tilecount="240" columns="20">
-  <image source="../BrowserQuest/tools/maps/tmx/mobset.png" width="320" height="200"/>
+  <image source="mobset.png" width="320" height="200"/>
   <tile id="0">
    <properties>
     <property name="type" value="skeleton"/>
